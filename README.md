@@ -29,6 +29,6 @@ Este projeto visa criar um modelo de rede neural capaz de reconhecer dígitos es
 ## 🚀 Resultados
 Após o treinamento e validação do modelo, obtemos uma precisão de aproximadamente 98% no conjunto de dados de validação. O modelo é capaz de reconhecer dígitos escritos à mão com alta precisão e pode ser utilizado em aplicações práticas de reconhecimento de caracteres.
 
-## 👀 Links Importantes 
+## 👀 Links do Colab  
 https://colab.research.google.com/drive/15uIEjYs8HF52eV6OG6yRCpYodatuc5Ha?usp=sharing
 
